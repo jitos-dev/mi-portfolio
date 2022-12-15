@@ -5,16 +5,21 @@
     --light: #FAFAFB;
     --dark: #12141D; */
 
-    --primary: #4559a9;
+    --primary: #9AACB8;
     --secondary: #ffffff;
-    --light: #dde1ff;
-    --dark: #3c4c8f;
+    --terciary: #B37C57;
+    --dark: #3C455C;
+    --dark-terciary: #60412B;
+    --light: #DDE2E3;
+    /* --dark: #9AACB8; */
+    /* --dark: #3c4c8f; */
     /* --dark: #001454; */
 }
 
 body {
-    background-color: var(--dark);
+    background-color: var(--primary);
 }
+
 
 .back-to-top {
     position: fixed;
@@ -56,10 +61,25 @@ body {
     transition: .5s;
 }
 
-.btn.btn-primary,
-.btn.btn-secondary {
-    color: #FFFFFF;
+.btn.btn-primary-portfolio {
+    color: var(--secondary);
+    background-color: var(--terciary);
+    border-color: var(--terciary);
 }
+
+/* .btn.btn-primary,
+.btn.btn-secondary {
+    color: var(--secondary);
+    background-color: var(--terciary);
+    border-color: var(--terciary);
+} */
+
+.btn.btn-primary-portfolio:hover {
+    background-color: var(--dark-terciary);
+    border-color: var(--dark-terciary);
+}
+
+
 
 .btn-square {
     width: 38px;
@@ -122,6 +142,10 @@ body {
 
 #home img {
     max-width: 80% !important;
+}
+
+.yo-soy {
+    color: var(--light);
 }
 
 .typed-cursor {
