@@ -148,6 +148,20 @@ body {
     color: var(--light);
 }
 
+.email h5 {
+    margin-top: 3rem;
+    color: var(--light) !important;
+}
+
+.contacto i {
+    font-size: 2rem;
+}
+
+.contacto a.linkedin-header {
+    padding-top: .7rem !important;
+    padding-bottom: .7rem !important;
+}
+
 .typed-cursor {
     font-size: 30px;
     color: var(--dark);
