@@ -292,6 +292,11 @@ body {
     margin-right: -30px;
 }
 
+#about p {
+    color: #3b3b3b;
+    ;
+}
+
 
 /*** Skills ***/
 #skill .progress {
