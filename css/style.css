@@ -151,16 +151,37 @@ body {
 .email h5 {
     margin-top: 3rem;
     color: var(--light) !important;
+    display: inline-block;
+}
+
+.email h5:first-child {
+    margin-right: 1.5rem;
+}
+
+.email a {
+    color: var(--light) !important;
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+
+.contacto a {
+    height: 3.5em;
 }
 
 .contacto i {
     font-size: 2rem;
+    position: relative;
+    bottom: 0.2rem;
 }
 
-.contacto a.linkedin-header {
-    padding-top: .7rem !important;
-    padding-bottom: .7rem !important;
+.contacto .linkedin-header i {
+    top: 0.3rem;
 }
+
+.contacto .download-cv {
+    padding: 1rem 0.4rem;
+}
+
 
 .typed-cursor {
     font-size: 30px;
