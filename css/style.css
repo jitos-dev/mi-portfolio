@@ -20,6 +20,20 @@ body {
     background-color: var(--primary);
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    letter-spacing: 0.4px;
+    color: #3b3b3b;
+}
+
+p {
+    text-align: justify;
+}
 
 .back-to-top {
     position: fixed;
@@ -292,10 +306,9 @@ body {
     margin-right: -30px;
 }
 
-#about p {
+/* #about p {
     color: #3b3b3b;
-    ;
-}
+} */
 
 
 /*** Skills ***/
@@ -319,12 +332,17 @@ body {
 }
 
 #skill .tab-content hr {
-    width: 30px;
+    /* width: 30px; */
 }
 
 
+.img-skills img {
+    width: 4rem;
+    margin: 1rem;
+}
+
 /*** Service ***/
-.service-item .bg-icon {
+/* .service-item .bg-icon {
     width: 100px;
     height: 100px;
     display: flex;
@@ -332,6 +350,19 @@ body {
     justify-content: center;
     background: url(../img/bg-icon.png) center center no-repeat;
     background-size: cover;
+} */
+
+.service-item {
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+}
+
+.servicios-iconos img {
+    height: 2rem;
+    margin: 1rem;
+}
+
+.servicios-iconos img:first-child {
+    margin-left: 0;
 }
 
 
