@@ -122,6 +122,10 @@ p {
 
 
 /*** Navbar ***/
+.navbar h1.text-nav {
+    color: #60412B;
+}
+
 .navbar.fixed-top {
     display: none;
     transition: .5s;
@@ -144,6 +148,24 @@ p {
     .navbar .navbar-nav .nav-link {
         padding: 10px 0;
     }
+}
+
+@media (max-width: 500px) {
+    .intro {
+        font-size: 1.3rem !important;
+        font-weight: 700;
+    }
+
+    .years h5 {
+        font-size: 1rem;
+        font-weight: 900;
+    }
+
+    #about,
+    #skill {
+        padding-top: 0 !important;
+    }
+
 }
 
 
@@ -177,12 +199,6 @@ p {
     margin-right: 1.5rem;
 }
 
-.email a {
-    color: var(--light) !important;
-    font-size: 1.3rem;
-    cursor: pointer;
-}
-
 .contacto a {
     height: 3.5em;
 }
@@ -191,6 +207,12 @@ p {
     font-size: 2rem;
     position: relative;
     bottom: 0.2rem;
+}
+
+i.whatsap {
+    color: var(--light) !important;
+    /* font-size: 1.3rem;
+    cursor: pointer; */
 }
 
 .contacto .linkedin-header i {
@@ -395,7 +417,7 @@ p {
 
 .portfolio-img {
     position: relative;
-    background-color: var(--light);
+    background-color: var(--dark);
 }
 
 .portfolio-btn {
@@ -404,7 +426,8 @@ p {
     height: 100%;
     top: 0;
     left: 0;
-    background: rgba(98, 68, 197, .9);
+    /* background: rgba(98, 68, 197, .9); */
+    background: rgba(60, 69, 92, .9);
     display: flex;
     align-items: flex-end;
     justify-content: flex-start;
