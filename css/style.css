@@ -89,8 +89,8 @@ p {
 } */
 
 .btn.btn-primary-portfolio:hover {
-    background-color: var(--dark-terciary);
-    border-color: var(--dark-terciary);
+    background-color: #966444;
+    border-color: #966444;
 }
 
 
@@ -154,6 +154,11 @@ p {
     background-color: var(--dark);
 }
 
+#home h1,
+#home h2.typed-text-output {
+    color: #B37C57;
+}
+
 #home img {
     max-width: 80% !important;
 }
@@ -194,6 +199,12 @@ p {
 
 .contacto .download-cv {
     padding: 1rem 0.4rem;
+    letter-spacing: .2rem;
+    font-weight: 900;
+    font-size: 1.8em;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
 }
 
 
@@ -384,6 +395,7 @@ p {
 
 .portfolio-img {
     position: relative;
+    background-color: var(--light);
 }
 
 .portfolio-btn {
