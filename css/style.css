@@ -43,6 +43,12 @@ p {
     z-index: 99;
 }
 
+.back-to-top i {
+    position: absolute;
+    top: 9px;
+    right: 12px;
+}
+
 .my-6 {
     margin-top: 6rem;
     margin-bottom: 6rem;
@@ -339,10 +345,14 @@ i.whatsap {
     margin-right: -30px;
 }
 
-/* #about p {
-    color: #3b3b3b;
-} */
+#about h3.intro {
+    margin: 0 1rem;
+}
 
+#about em {
+    font-weight: 900;
+    letter-spacing: 0.04rem;
+}
 
 /*** Skills ***/
 #skill .progress {
@@ -418,6 +428,7 @@ i.whatsap {
 .portfolio-img {
     position: relative;
     background-color: var(--dark);
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
 }
 
 .portfolio-btn {
@@ -572,4 +583,24 @@ i.whatsap {
 
 .testimonial-carousel .owl-dot.active::after {
     background: var(--primary);
+}
+
+/*Others efects*/
+.hvr-grow {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+}
+
+.hvr-grow:hover,
+.hvr-grow:focus,
+.hvr-grow:active {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
 }
