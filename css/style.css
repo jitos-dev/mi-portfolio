@@ -66,6 +66,10 @@ p {
     visibility: hidden;
     transition: opacity .5s ease-out, visibility 0s linear .5s;
     z-index: 99999;
+    -webkit-transition: opacity .5s ease-out, visibility 0s linear .5s;
+    -moz-transition: opacity .5s ease-out, visibility 0s linear .5s;
+    -ms-transition: opacity .5s ease-out, visibility 0s linear .5s;
+    -o-transition: opacity .5s ease-out, visibility 0s linear .5s;
 }
 
 #spinner.show {
@@ -374,11 +378,6 @@ i.whatsap {
     color: #FFFFFF;
 }
 
-#skill .tab-content hr {
-    /* width: 30px; */
-}
-
-
 .img-skills img {
     width: 4rem;
     margin: 1rem;
@@ -583,6 +582,11 @@ i.whatsap {
 
 .testimonial-carousel .owl-dot.active::after {
     background: var(--primary);
+}
+
+/*-------------FOOTER-------------*/
+footer {
+    height: 10em;
 }
 
 /*Others efects*/
