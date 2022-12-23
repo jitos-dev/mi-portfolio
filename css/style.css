@@ -383,6 +383,16 @@ i.whatsap {
     margin: 1rem;
 }
 
+/*** Experience and Educatión***/
+#tab-2 {
+    /* display: none; */
+}
+
+#tab-2 .education {
+    /* height: 10rem;
+    overflow: hidden; */
+}
+
 /*** Service ***/
 /* .service-item .bg-icon {
     width: 100px;
