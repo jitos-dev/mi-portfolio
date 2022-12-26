@@ -594,6 +594,12 @@ i.whatsap {
     background: var(--primary);
 }
 
+/*------------- FORM--------------*/
+
+.confirm-contact button {
+    float: right;
+}
+
 /*-------------FOOTER-------------*/
 footer {
     height: 10em;

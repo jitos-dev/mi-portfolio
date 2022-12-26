@@ -635,7 +635,7 @@
     <div class="container-xxl pb-5" id="contact">
         <div class="container py-5">
             <div class="row g-5 mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                <div class="col-lg-12">
+                <div class="col-lg-6">
                     <h1 class="display-5 mb-0">Trabajemos juntos</h1>
                 </div>
                 <!-- <div class="col-lg-6 text-lg-end">
@@ -671,35 +671,41 @@
                                 class="fab fa-linkedin-in"></i></a> -->
                     </div>
                 </div>
-                <div class="col-lg-7 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                <div class="col-lg-7 col-md-6 wow fadeInUp contact" data-wow-delay="0.5s">
                     <!-- <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form
                         with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're
                         done. <a href="https://htmlcodex.com/contact-form">Download Now</a>.</p> -->
-                    <form>
+
+                    <div class="confirm-contact alert alert-success" role="alert">
+                        <span class="message-contact"></span>
+                        <!-- <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button> -->
+                        <button type="button" class="btn-close"></button>
+                    </div>
+                    <form method="POST" id="form_contact" action="contact.php">
                         <div class="row g-3">
                             <div class="col-md-6">
                                 <div class="form-floating">
-                                    <input type="text" class="form-control" id="name" placeholder="Your Name">
+                                    <input type="text" class="form-control" id="name" placeholder="Tu nombre" name="name" required maxlength="150">
                                     <label for="name">Tu Nombre</label>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating">
-                                    <input type="email" class="form-control" id="email" placeholder="Your Email">
+                                    <input type="email" class="form-control" id="email" placeholder="Tu Email" name="email" maxlength="150" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" title="Por favor escriba una dirección de email correcta">
                                     <label for="email">Tu Email</label>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
-                                    <input type="text" class="form-control" id="subject" placeholder="Subject">
+                                    <input type="text" class="form-control" id="subject" placeholder="Asunto" name="subject" required maxlength="200">
                                     <label for="subject">Asunto</label>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
-                                    <textarea class="form-control" placeholder="Leave a message here" id="message"
-                                        style="height: 100px"></textarea>
-                                    <label for="message">Mensaje</label>
+                                    <textarea class="form-control" placeholder="Deja un mensaje aquí" id="message"
+                                        style="height: 100px" name="message" required maxlength="500"></textarea>
+                                    <label for="message">Deja un mensaje aquí</label>
                                 </div>
                             </div>
                             <div class="col-12">

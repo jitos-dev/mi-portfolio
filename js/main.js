@@ -1,6 +1,9 @@
 (function ($) {
     "use strict";
 
+    //Hide div to confirm contact message
+    $('.confirm-contact').hide();
+
     // Spinner
     var spinner = function () {
         setTimeout(function () {
@@ -121,6 +124,41 @@
         loop: true,
     });
 
+    // Contact form
+    $("#form_contact").submit(function (event) {
+        event.preventDefault();
+
+        $.ajax({
+            type: 'POST',
+            data: $(this).serialize(),
+            url: $(this).attr('action'),
+            success: function (data) {
+                showConfirmContact(data);
+            },
+            error: function (data) {
+                showConfirmContact(data);
+            }
+        })
+    });
+
+    //Button close confirm message
+    $('.confirm-contact button').click(function () {
+        $('.confirm-contact').hide();
+    });
+
 
 })(jQuery);
 
+
+function showConfirmContact(data) {
+    //Eliminamos las clases del tipo de mensaje por si ya tiene alguna
+    let divConfirm = $('.confirm-contact').removeClass('alert-success').removeClass('alert-danger');
+    let values = JSON.parse(data);
+    $('.message-contact').text(values.message);
+
+    if (values.status === 'success') {
+        divConfirm.addClass('alert-success').show();
+    } else {
+        divConfirm.addClass('alert-danger').show();
+    }
+}
