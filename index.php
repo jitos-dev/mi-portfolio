@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="utf-8">
     <title>Jitos portfolio</title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="Jitos-dev">
-    <meta content="" name="Desarrollador Full Stack">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta content="" name="jitos-dev">
+    <meta content="" name="Full Stack junior developer">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -158,7 +158,7 @@
                     </p>
                     <p>Actualmente estoy centrado en la arquitectura de Microservicios y en los frameworks Spring y
                         Angular</p>
-                    <p>En el futuro me gustaría seguir especializandome en desarrollo BackEnd con Java, FrontEnd con
+                    <p>En el futuro me gustaría seguir especializandome en el desarrollo BackEnd con Java, FrontEnd con
                         Angular y apps movil Android</p>
                     <h5 class="mt-4 mb-4">Mis valores</h5>
                     <p class="mb-3"><i class="far fa-check-circle text-primary me-3"></i>Orientado a resultados</p>
@@ -188,10 +188,9 @@
                         <h5 class="border-end pe-3 me-3 mb-0">Polivalente</h5>
                         <h2 class="text-primary fw-bold mb-0" data-toggle="counter-up">100</h2>
                     </div>
-                    <p class="mb-4">He trabajado con distintos lenguajes de programación como PHP, JavaScript, Kotlin,
-                        Java, distintas BBDD como MySQL, SqLite, Oracle, H2 e Hibernate. Además también la parte
-                        front-end con HTML y CSS</p>
-                    <P class="mb-4">Aparte también utilizo distintos frameworks como Angular, Spring, JavaFX, jQuery,
+                    <p class="mb-4">He trabajado con distintos lenguajes de programación como HTML, CSS, PHP, JavaScript, Kotlin,
+                        Java, distintas BBDD como MySQL, SqLite, Oracle, H2 e Hibernate</p>
+                    <P class="mb-4">Además también utilizo distintos frameworks como Angular, Spring, JavaFX, jQuery,
                         Ajax, Bootstrap, CodeIgniter, PWA, arquitectura de microservicios y control de versiones
                         Git</P>
                     <!-- <div class="d-flex align-items-center mb-3">
@@ -255,7 +254,7 @@
                                     <hr class="text-primary my-2">
                                     <p class="text-primary mb-2">2021 - 2021</p>
                                     <h6 class="mb-2">Roka Creativa</h6>
-                                    <p>Desarrollo de distintas apps web desde el própio diseño inicial hasta el
+                                    <p>Desarrollo de distintas apps web desde el propio diseño inicial hasta el
                                         despliegue en el servidor. FrontEnd con HTML, CSS y
                                         JavaScript, BackEnd con PHP, Codeigniter y BBDD MySQL</p>
                                 </div>
@@ -264,50 +263,50 @@
                         <div id="tab-2" class="tab-pane fade show p-0">
                             <div class="row gy-5 gx-4">
                                 <div class="education">
-                                    <div class="col-sm-12">
+                                    <div class="col-sm-12 mb-4">
                                         <h5>FP2 Desarrollo de aplicaciones multiplataforma</h5>
                                         <hr class="text-primary my-2">
                                         <p class="text-primary mb-1">2021 - 2022</p>
                                         <h6 class="mb-0">Ilerna</h6>
                                     </div>
-                                    <div class="col-sm-12">
+                                    <div class="col-sm-12 mb-4">
                                         <h5>Programador Java certificación OCP</h5>
                                         <hr class="text-primary my-2">
                                         <p class="text-primary mb-1">2020 - 2021</p>
                                         <h6 class="mb-0">Tokio School</h6>
                                     </div>
-                                    <div class="col-sm-12">
+                                    <div class="col-sm-12 mb-4">
                                         <h5>Java desde 0</h5>
                                         <hr class="text-primary my-2">
                                         <p class="text-primary mb-1">2019 - 2020</p>
                                         <h6 class="mb-0">Píldoras informáticas</h6>
                                     </div>
-                                    <div class="col-sm-12">
+                                    <div class="col-sm-12 mb-4">
                                         <h5>Diseño de aplicaciones web. HTML 5, CSS, JavaScript, PHP,
                                             JQuery y bases de datos MySql</h5>
                                         <hr class="text-primary my-2">
                                         <p class="text-primary mb-1">2020 - 2021</p>
                                         <h6 class="mb-0">Virensis</h6>
                                     </div>
-                                    <div class="col-sm-12">
+                                    <div class="col-sm-12 mb-4">
                                         <h5>PWA- Aplicaciones Web Progresivas de 0 a experto</h5>
                                         <hr class="text-primary my-2">
                                         <p class="text-primary mb-1">2021 - 2022</p>
                                         <h6 class="mb-0">Udemy</h6>
                                     </div>
-                                    <div class="col-sm-12">
+                                    <div class="col-sm-12 mb-4">
                                         <h5>Angular desde 0</h5>
                                         <hr class="text-primary my-2">
                                         <p class="text-primary mb-1">2022 - 2022</p>
                                         <h6 class="mb-0">Virensis</h6>
                                     </div>
-                                    <div class="col-sm-12">
+                                    <div class="col-sm-12 mb-4">
                                         <h5>Microservicicos Spring Cloud, Eureka & Angular Full-stack</h5>
                                         <hr class="text-primary my-2">
                                         <p class="text-primary mb-1">2022 - 2022</p>
                                         <h6 class="mb-0">Udemy</h6>
                                     </div>
-                                    <p class="mt-2">Aparte de los cursos mencionados tengo otros muchos sobre Java, SQL,
+                                    <p class="mt-2">Además de los cursos mencionados tengo otros muchos sobre Java, SQL,
                                         JavaFX,
                                         JavaScript, CodeIgniter, Kotlin, Android, Bootstrap, git...</p>
                                 </div>
@@ -330,7 +329,7 @@
                     <h1 class="display-5 mb-0">Mis servicios</h1>
                 </div>
                 <div class="col-lg-6 text-lg-end">
-                    <a class="btn btn-primary-portfolio py-3 px-5" href="#contact">Contacto</a>
+                    <a class="btn btn-primary-portfolio py-3 px-5 to-contact" href="#contact">Contacto</a>
                 </div>
             </div>
             <div class="row g-4">
@@ -341,7 +340,7 @@
                         </div> -->
                         <div class="ms-sm-4">
                             <h4 class="mb-3">Páginas Web</h4>
-                            <span>Diseño copleto de páginas web desde el Front-end, Back-end, gestión de la BBDD hasta
+                            <span>Diseño y programación copleta de páginas web desde el FrontEnd, BackEnd, gestión de la BBDD hasta
                                 el despliegue en el servidor</span>
                             <div class="servicios-iconos">
                                 <img src="img/logos-skills/html.png" alt="">
@@ -379,9 +378,9 @@
                     <div class="service-item d-flex flex-column flex-sm-row bg-white rounded h-100 p-4 p-lg-5">
                         <div class="ms-sm-4">
                             <h4 class="mb-3">Microservicios</h4>
-                            <span>Proyectos Back-end con arquitectura de microservicios utilizando Spring-boot,
-                                Spring-security,
-                                Spring-clud, Gateway, Eureka, Load balancer...</span>
+                            <span>Proyectos BackEnd con arquitectura de microservicios utilizando SpringBoot,
+                                SpringSecurity,
+                                SpringClud, Gateway, Eureka, Load balancer...</span>
                             <div class="servicios-iconos">
                                 <img src="img/logos-skills/Java.png" alt="">
                                 <img src="img/logos-skills/spring.png" alt="">
@@ -394,9 +393,9 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item d-flex flex-column flex-sm-row bg-white rounded h-100 p-4 p-lg-5">
                         <div class="ms-sm-4">
-                            <h4 class="mb-3">Angular y Spring Boot</h4>
-                            <span>Aplicaciones web completas realizando la parte Front-end con Angular y la parte
-                                Back-end con Spring y comunicación API Rest hasta su despliegue en el servidor</span>
+                            <h4 class="mb-3">Angular y SpringBoot</h4>
+                            <span>Aplicaciones web completas realizando la parte FrontEnd con Angular y la parte
+                                BackEnd con Spring y comunicación API Rest hasta su despliegue en el servidor</span>
                             <div class="servicios-iconos">
                                 <img src="img/logos-skills/Java.png" alt="">
                                 <img src="img/logos-skills/spring.png" alt="">
@@ -426,7 +425,7 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item d-flex flex-column flex-sm-row bg-white rounded h-100 p-4 p-lg-5">
                         <div class="ms-sm-4">
-                            <h4 class="mb-3">Gestion de BBDD</h4>
+                            <h4 class="mb-3">Gestión de BBDD</h4>
                             <span>Gestión completa de sus bases de datos en distintos gestores como MySQL, Oracle, H2,
                                 sQlite...</span>
                             <div class="servicios-iconos">
@@ -451,6 +450,9 @@
                 <div class="col-lg-6">
                     <h1 class="display-5 mb-0">Alguno de mis proyectos</h1>
                 </div>
+                <div class="col-lg-6 text-lg-end">
+                    <a class="py-3 px-5 to-proyects" href="https://github.com/jitos-dev" target="_blank">Ver todos</a>
+                </div>
                 <!-- <div class="col-lg-6 text-lg-end">
                     <ul class="list-inline mx-n3 mb-0" id="portfolio-flters">
                         <li class="mx-3 active" data-filter="*">Todos</li>
@@ -463,7 +465,7 @@
                 <!--Los proyectos se pueden clasificar poniendo la clase first o second-->
                 <div class="col-lg-4 col-md-6 portfolio-item first">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/logo-calculator-pan2.png" alt="">
+                        <img class="img-fluid" src="img/logo-calculator-pan.png" alt="">
                         <div class="portfolio-btn">
                             <!--Aquí dentro va lo que queramos que se vea cuando pasan el ratón encima-->
                             <!-- <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/project-1.jpg"
@@ -476,7 +478,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/twittor.png" alt="">
+                        <img class="img-fluid" src="img/twitor.jpg" alt="">
                         <div class="portfolio-btn">
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1"
                                 href="https://jitos-dev.github.io/twittor/" target="_blank"><i
@@ -488,7 +490,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item first">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/conexion-universal.png" alt="">
+                        <img class="img-fluid" src="img/spotify.jpg" alt="">
                         <div class="portfolio-btn">
                             <!-- <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/project-3.jpg"
                                 data-lightbox="portfolio"><i class="fa fa-eye"></i></a> -->
@@ -736,24 +738,26 @@
 
 
     <!-- Copyright Start -->
-    <div class="container-fluid bg-dark text-white py-4">
-        <div class="container">
-            <div class="row">
-                <footer>
-
-                </footer>
-                <!-- <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                    &copy; <a class="border-bottom text-secondary" href="#">Your Site Name</a>, All Right Reserved.
+    <div class="container-fluid bg-dark text-white py-4">    
+        <div class="row">
+            <footer>
+                <div class="col-md-6 text-center text-md-start mb-3 mb-md-0 div-footer">
+                    <h5>Sobre mi</h5>
+                    <p>Experiencia profesional de 1 año desarrollando apps web, desde la fase de diseño, pasando por la BBDD y la parte FrontEnd y BackEnd</p>
+                    <p>Actualmente estoy centrado en la arquitectura de Microservicios y en los frameworks Spring y Angular</p>
+                    <p>En el futuro me gustaría seguir especializandome en el desarrollo BackEnd con Java, FrontEnd con Angular y apps movil Android</p>
                 </div>
-                <div class="col-md-6 text-center text-md-end"> -->
-                <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                <!-- Designed By <a class="border-bottom text-secondary" href="https://htmlcodex.com">HTML Codex</a>
-                    <br>Distributed By: <a class="border-bottom" href="https://themewagon.com"
-                        target="_blank">ThemeWagon</a>
-                </div> -->
-            </div>
-        </div>
-    </div>
+                <div class="col-md-6 text-center text-md-start mb-3 mb-md-0 div-footer">
+                    <h5 class="border-end pe-3 me-3">Polivalente</h5>
+                    <h2 class="text-primary fw-bold" data-toggle="counter-up">100</h2>
+                    <p class="mb-4">He trabajado con distintos lenguajes de programación como HTML, CSS, PHP, JavaScript, Kotlin,
+                        Java, distintas BBDD como MySQL, SqLite, Oracle, H2 e Hibernate</p>
+                    <p class="mb-4">Además también utilizo distintos frameworks como Angular, Spring, JavaFX, jQuery,
+                        Ajax, Bootstrap, CodeIgniter, PWA, arquitectura de microservicios y control de versiones
+                        Git</p>
+                </div>
+            </footer>
+        </div>     
     </div>
     <!-- Copyright End -->
 
