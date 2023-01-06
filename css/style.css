@@ -11,6 +11,7 @@
     --dark: #3C455C;
     --dark-terciary: #60412B;
     --light: #DDE2E3;
+    --sadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
     /* --dark: #9AACB8; */
     /* --dark: #3c4c8f; */
     /* --dark: #001454; */
@@ -89,6 +90,23 @@ p {
     color: var(--secondary);
     background-color: var(--terciary);
     border-color: var(--terciary);
+    box-shadow: var(--sadow);
+
+}
+
+a.to-proyects {
+    background-color: #6244C5;
+    color: var(--secondary);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+a.to-proyects:hover {
+    transition: .5s;
+    color: rgba(255, 255, 255, .5);
 }
 
 /* .btn.btn-primary,
@@ -384,6 +402,10 @@ i.whatsap {
 }
 
 /*** Experience and Educatión***/
+.tab-content h5 {
+    font-weight: bold;
+}
+
 #tab-2 {
     /* display: none; */
 }
@@ -405,7 +427,8 @@ i.whatsap {
 } */
 
 .service-item {
-    box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+    box-shadow: var(--sadow);
+    ;
 }
 
 .servicios-iconos img {
@@ -437,7 +460,11 @@ i.whatsap {
 .portfolio-img {
     position: relative;
     background-color: var(--dark);
-    box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+    box-shadow: var(--sadow);
+}
+
+.portfolio-img:first-child {
+    background-color: var(--light);
 }
 
 .portfolio-btn {
@@ -602,7 +629,25 @@ i.whatsap {
 
 /*-------------FOOTER-------------*/
 footer {
-    height: 10em;
+    color: var(--secondary) !important;
+}
+
+footer p,
+footer h5 {
+    color: var(--secondary)
+}
+
+footer h5,
+footer h2 {
+    max-width: max-content;
+    display: inline-block;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+footer .div-footer {
+    float: left;
+    padding: 3rem 5rem;
 }
 
 /*Others efects*/
