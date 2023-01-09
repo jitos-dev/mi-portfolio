@@ -3,10 +3,19 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Jitos portfolio</title>
+    <title>Jitos | Portfolio</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta content="" name="jitos-dev">
     <meta content="" name="Full Stack junior developer">
+
+    <meta property="og:site_name" content="Jitos Portfolio">
+    <meta name="title" content="Jitos | Portfolio">
+    <meta name="description" content="Portfolio personal donde explico un poco sobre mi.">
+    <meta property="image" content="img/foto-calle.jpg">
+    <meta property="og:title" content="Jitos | Portfolio">
+    <meta property="og:description" content="Portfolio personal donde explico un poco sobre mi.">
+    <meta property="og:image" content="img/foto-calle.jpg">
+    <meta name="next-head-count" content="18">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -110,7 +119,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <img class="img-fluid" src="img/imagen-mia.png" alt="" class="mia-header">
+                    <img class="img-fluid" src="img/mia-header.png" alt="" class="mia-header">
                 </div>
             </div>
         </div>
@@ -178,11 +187,8 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="row g-3 mb-4">
                         <div class="col-sm-12">
-                            <img class="img-fluid rounded" src="img/pc-front2.jpg" alt="">
+                            <img class="img-fluid rounded" src="img/foto-calle.jpg" alt="">
                         </div>
-                        <!-- <div class="col-sm-6">
-                            <img class="img-fluid rounded" src="img/about-2.jpg" alt="">
-                        </div> -->
                     </div>
                     <div class="d-flex align-items-center mb-3">
                         <h5 class="border-end pe-3 me-3 mb-0">Polivalente</h5>
@@ -693,7 +699,7 @@
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating">
-                                    <input type="email" class="form-control" id="email" placeholder="Tu Email" name="email" maxlength="150" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" title="Por favor escriba una dirección de email correcta">
+                                    <input type="email" class="form-control" id="email" placeholder="Tu Email" name="email" maxlength="150" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" title="Por favor escriba una dirección de email correcta" required>
                                     <label for="email">Tu Email</label>
                                 </div>
                             </div>

@@ -202,6 +202,10 @@ a.to-proyects:hover {
     margin-bottom: 6rem;
     /* background: url(../img/bg-header.png) left top no-repeat; */
     background-color: var(--dark);
+    /* background-image: url('../img/foto-calle.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right; */
 }
 
 #home h1,
