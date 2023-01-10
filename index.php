@@ -10,10 +10,10 @@
 
     <meta property="og:site_name" content="Jitos Portfolio">
     <meta name="title" content="Jitos | Portfolio">
-    <meta name="description" content="Portfolio personal donde explico un poco sobre mi.">
+    <meta name="description" content="Portfolio personal donde explico un poco sobre mí.">
     <meta property="image" content="img/foto-calle.jpg">
     <meta property="og:title" content="Jitos | Portfolio">
-    <meta property="og:description" content="Portfolio personal donde explico un poco sobre mi.">
+    <meta property="og:description" content="Portfolio personal donde explico un poco sobre mí.">
     <meta property="og:image" content="img/foto-calle.jpg">
     <meta name="next-head-count" content="18">
 
@@ -65,17 +65,12 @@
         <div class="collapse navbar-collapse justify-content-between py-4 py-lg-0" id="navbarCollapse">
             <div class="navbar-nav ms-auto py-0">
                 <a href="#home" class="nav-item nav-link active">Inicio</a>
-                <a href="#about" class="nav-item nav-link">Sobre mi</a>
+                <a href="#about" class="nav-item nav-link">Sobre mí</a>
                 <a href="#skill" class="nav-item nav-link">Skills</a>
                 <a href="#service" class="nav-item nav-link">Servicios</a>
             </div>
-            <!-- <a href="index.html" class="navbar-brand bg-secondary py-3 px-4 mx-3 d-none d-lg-block">
-                <h1 class="text-primary fw-bold m-0">ProMan</h1>
-            </a> -->
             <div class="navbar-nav me-auto py-0">
                 <a href="#project" class="nav-item nav-link">Proyectos</a>
-                <!-- <a href="#team" class="nav-item nav-link">Team</a>
-                <a href="#testimonial" class="nav-item nav-link">Testimonial</a> -->
                 <a href="#contact" class="nav-item nav-link">Contacto</a>
             </div>
         </div>
@@ -106,12 +101,6 @@
                         <a download
                             href="https://github.com/jitos-dev/jitos-dev/raw/fd37651f85f8f7da85e499c34c4b5355f706a0ac/JuanJoseGarcia.pdf"
                             target="_blank" class="btn btn-primary-portfolio download-cv hvr-grow">CV</a>
-
-                        <!-- <button type="button" class="btn-play" data-bs-toggle="modal"
-                            data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-bs-target="#videoModal">
-                            <span></span>
-                        </button>
-                        <h5 class="ms-4 mb-0 d-none d-sm-block">Play Video</h5> -->
                     </div>
                     <div class="email">
                         <h5 class="mr-3">jitos@jitos.dev</h5>
@@ -124,28 +113,6 @@
         </div>
     </div>
     <!-- Header End -->
-
-
-    <!-- Video Modal Start -->
-    <!-- <div class="modal modal-video fade" id="videoModal" tabindex="-1" aria-labelledby="exampleModalLabel"
-        aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content rounded-0">
-                <div class="modal-header">
-                    <h3 class="modal-title" id="exampleModalLabel">Youtube Video</h3>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body"> -->
-    <!-- 16:9 aspect ratio -->
-    <!-- <div class="ratio ratio-16x9">
-                        <iframe class="embed-responsive-item" src="" id="video" allowfullscreen
-                            allowscriptaccess="always" allow="autoplay"></iframe>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- Video Modal End -->
 
 
     <!-- About Start -->
@@ -166,7 +133,7 @@
                     </p>
                     <p>Actualmente estoy centrado en la arquitectura de Microservicios y en los frameworks Spring y
                         Angular</p>
-                    <p>En el futuro me gustaría seguir especializandome en el desarrollo BackEnd con Java, FrontEnd con
+                    <p>En el futuro me gustaría seguir especializándome en el desarrollo BackEnd con Java, FrontEnd con
                         Angular y apps movil Android</p>
                     <h5 class="mt-4 mb-4">Mis valores</h5>
                     <p class="mb-3"><i class="far fa-check-circle text-primary me-3"></i>Orientado a resultados</p>
@@ -198,13 +165,6 @@
                     <P class="mb-4">Además también utilizo distintos frameworks como Angular, Spring, JavaFX, jQuery,
                         Ajax, Bootstrap, CodeIgniter, PWA, arquitectura de microservicios y control de versiones
                         Git</P>
-                    <!-- <div class="d-flex align-items-center mb-3">
-                        <h5 class="border-end pe-3 me-3 mb-0">Projectos Completados</h5>
-                        <h2 class="text-primary fw-bold mb-0" data-toggle="counter-up">100</h2>
-                    </div>
-                    <p class="mb-0">Durante estos tres años solo me he dedicado a programar, desarrollando cientos de
-                        pequeños proyectos, los cuales me han supuesto muchos retos distintos y me han hecho madurar
-                        como programador</p> -->
                 </div>
             </div>
         </div>
@@ -306,7 +266,7 @@
                                         <h6 class="mb-0">Virensis</h6>
                                     </div>
                                     <div class="col-sm-12 mb-4">
-                                        <h5>Microservicicos Spring Cloud, Eureka & Angular Full-stack</h5>
+                                        <h5>Microservicicos Spring Cloud, Eureka & Angular FullStack</h5>
                                         <hr class="text-primary my-2">
                                         <p class="text-primary mb-1">2022 - 2022</p>
                                         <h6 class="mb-0">Udemy</h6>
@@ -340,12 +300,9 @@
             <div class="row g-4">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="service-item d-flex flex-column flex-sm-row bg-white rounded h-100 p-4 p-lg-5">
-                        <!-- <div class="bg-icon flex-shrink-0 mb-3">
-                            <i class="fa fa-crop-alt fa-2x text-dark"></i>
-                        </div> -->
                         <div class="ms-sm-4">
                             <h4 class="mb-3">Páginas Web</h4>
-                            <span>Diseño y programación copleta de páginas web desde el FrontEnd, BackEnd, gestión de la BBDD hasta
+                            <span>Diseño y programación completa de páginas web desde el FrontEnd, BackEnd, gestión de la BBDD hasta
                                 el despliegue en el servidor</span>
                             <div class="servicios-iconos">
                                 <img src="img/logos-skills/html.png" alt="">
@@ -361,9 +318,6 @@
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item d-flex flex-column flex-sm-row bg-white rounded h-100 p-4 p-lg-5">
-                        <!-- <div class="bg-icon flex-shrink-0 mb-3">
-                            <i class="fa fa-code-branch fa-2x text-dark"></i>
-                        </div> -->
                         <div class="ms-sm-4">
                             <h4 class="mb-3">Apps de escritorio</h4>
                             <span>Apps de escritorio responsive para cualquier tipo de negocio con el mejor diseño
@@ -415,7 +369,7 @@
                     <div class="service-item d-flex flex-column flex-sm-row bg-white rounded h-100 p-4 p-lg-5">
                         <div class="ms-sm-4">
                             <h4 class="mb-3">Android</h4>
-                            <span>Desarrollo de aplicaciones móviles para cualquier serctor utilizando las mejores
+                            <span>Desarrollo de aplicaciones móviles para cualquier sector utilizando las mejores
                                 tecnologías y con el mejor diseño</span>
                             <div class="servicios-iconos">
                                 <img src="img/logos-skills/android-logomark.png" alt="">
@@ -458,13 +412,6 @@
                 <div class="col-lg-6 text-lg-end">
                     <a class="py-3 px-5 to-proyects" href="https://github.com/jitos-dev" target="_blank">Ver todos</a>
                 </div>
-                <!-- <div class="col-lg-6 text-lg-end">
-                    <ul class="list-inline mx-n3 mb-0" id="portfolio-flters">
-                        <li class="mx-3 active" data-filter="*">Todos</li>
-                        <li class="mx-3" data-filter=".first">UI/UX Design</li>
-                        <li class="mx-3" data-filter=".second">Graphic Design</li>
-                    </ul>
-                </div> -->
             </div>
             <div class="row g-4 portfolio-container wow fadeInUp" data-wow-delay="0.1s">
                 <!--Los proyectos se pueden clasificar poniendo la clase first o second-->
@@ -472,9 +419,12 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="img/logo-calculator-pan.png" alt="">
                         <div class="portfolio-btn">
-                            <!--Aquí dentro va lo que queramos que se vea cuando pasan el ratón encima-->
-                            <!-- <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/project-1.jpg"
-                                data-lightbox="portfolio"><i class="fa fa-eye"></i></a> -->
+                            <h5>App para el cálculo de las recetas de panadería realizada con</h5>
+                            <div class="skills">
+                                <img src="img/logos-skills/Java.png" alt="">
+                                <img src="img/logos-skills/CSS.png" alt="">
+                                <img src="img/logos-skills/sqlite.png" alt="">
+                            </div>
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1"
                                 href="https://github.com/jitos-dev/Calculator-pan" target="_blank"><i
                                     class="fa fa-link"></i></a>
@@ -485,10 +435,16 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="img/twitor.jpg" alt="">
                         <div class="portfolio-btn">
+                            <h5>App para probar el funcionamiento de un service worker realizada con</h5>
+                            <div class="skills">
+                                <img src="img/logos-skills/html.png" alt="">
+                                <img src="img/logos-skills/CSS.png" alt="">
+                                <img src="img/logos-skills/JavaScript.png" alt="">
+                            </div>
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1"
                                 href="https://jitos-dev.github.io/twittor/" target="_blank"><i
                                     class="fa fa-eye"></i></a>
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" target="_blank"
+                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1 second" target="_blank"
                                 href="https://github.com/jitos-dev/twittor"><i class="fa fa-link"></i></a>
                         </div>
                     </div>
@@ -497,8 +453,12 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="img/spotify.jpg" alt="">
                         <div class="portfolio-btn">
-                            <!-- <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="img/project-3.jpg"
-                                data-lightbox="portfolio"><i class="fa fa-eye"></i></a> -->
+                            <h5>Clone de la app de spotify realizada con</h5>
+                            <div class="skills">
+                                <img src="img/logos-skills/angular-icon.png" alt="">
+                                <img src="img/logos-skills/html.png" alt="">
+                                <img src="img/logos-skills/CSS.png" alt="">
+                            </div>
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" target="_blank"
                                 href="https://github.com/jitos-dev/ConexionUniversalBD"><i class="fa fa-link"></i></a>
                         </div>
@@ -510,134 +470,6 @@
     <!-- Projects End -->
 
 
-    <!-- Team Start -->
-    <!-- <div class="container-xxl py-6 pb-5" id="team">
-        <div class="container">
-            <div class="row g-5 mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                <div class="col-lg-6">
-                    <h1 class="display-5 mb-0">Team Members</h1>
-                </div>
-                <div class="col-lg-6 text-lg-end">
-                    <a class="btn btn-primary-portfolio py-3 px-5" href="">Contact Us</a>
-                </div>
-            </div>
-            <div class="row g-4">
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item position-relative">
-                        <img class="img-fluid rounded" src="img/team-1.jpg" alt="">
-                        <div class="team-text bg-white rounded-end p-4">
-                            <div>
-                                <h5>Full Name</h5>
-                                <span>Designer</span>
-                            </div>
-                            <i class="fa fa-arrow-right fa-2x text-primary"></i>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="team-item position-relative">
-                        <img class="img-fluid rounded" src="img/team-2.jpg" alt="">
-                        <div class="team-text bg-white rounded-end p-4">
-                            <div>
-                                <h5>Full Name</h5>
-                                <span>Designer</span>
-                            </div>
-                            <i class="fa fa-arrow-right fa-2x text-primary"></i>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="team-item position-relative">
-                        <img class="img-fluid rounded" src="img/team-3.jpg" alt="">
-                        <div class="team-text bg-white rounded-end p-4">
-                            <div>
-                                <h5>Full Name</h5>
-                                <span>Designer</span>
-                            </div>
-                            <i class="fa fa-arrow-right fa-2x text-primary"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- Team End -->
-
-
-    <!-- Testimonial Start -->
-    <!-- <div class="container-fluid bg-light py-5 my-5" id="testimonial">
-        <div class="container-fluid py-5">
-            <h1 class="display-5 text-center mb-5 wow fadeInUp" data-wow-delay="0.1s">Testimonial</h1>
-            <div class="row justify-content-center">
-                <div class="col-lg-3 d-none d-lg-block">
-                    <div class="testimonial-left h-100">
-                        <img class="img-fluid wow fadeIn" data-wow-delay="0.1s" src="img/testimonial-1.jpg" alt="">
-                        <img class="img-fluid wow fadeIn" data-wow-delay="0.3s" src="img/testimonial-2.jpg" alt="">
-                        <img class="img-fluid wow fadeIn" data-wow-delay="0.5s" src="img/testimonial-3.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="owl-carousel testimonial-carousel">
-                        <div class="testimonial-item text-center">
-                            <div class="position-relative mb-5">
-                                <img class="img-fluid rounded-circle border border-secondary p-2 mx-auto"
-                                    src="img/testimonial-1.jpg" alt="">
-                                <div class="testimonial-icon">
-                                    <i class="fa fa-quote-left text-primary"></i>
-                                </div>
-                            </div>
-                            <p class="fs-5 fst-italic">Dolores sed duo clita tempor justo dolor et stet lorem kasd
-                                labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam
-                                tempor erat.</p>
-                            <hr class="w-25 mx-auto">
-                            <h5>Client Name</h5>
-                            <span>Profession</span>
-                        </div>
-                        <div class="testimonial-item text-center">
-                            <div class="position-relative mb-5">
-                                <img class="img-fluid rounded-circle border border-secondary p-2 mx-auto"
-                                    src="img/testimonial-2.jpg" alt="">
-                                <div class="testimonial-icon">
-                                    <i class="fa fa-quote-left text-primary"></i>
-                                </div>
-                            </div>
-                            <p class="fs-5 fst-italic">Dolores sed duo clita tempor justo dolor et stet lorem kasd
-                                labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam
-                                tempor erat.</p>
-                            <hr class="w-25 mx-auto">
-                            <h5>Client Name</h5>
-                            <span>Profession</span>
-                        </div>
-                        <div class="testimonial-item text-center">
-                            <div class="position-relative mb-5">
-                                <img class="img-fluid rounded-circle border border-secondary p-2 mx-auto"
-                                    src="img/testimonial-3.jpg" alt="">
-                                <div class="testimonial-icon">
-                                    <i class="fa fa-quote-left text-primary"></i>
-                                </div>
-                            </div>
-                            <p class="fs-5 fst-italic">Dolores sed duo clita tempor justo dolor et stet lorem kasd
-                                labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam
-                                tempor erat.</p>
-                            <hr class="w-25 mx-auto">
-                            <h5>Client Name</h5>
-                            <span>Profession</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 d-none d-lg-block">
-                    <div class="testimonial-right h-100">
-                        <img class="img-fluid wow fadeIn" data-wow-delay="0.1s" src="img/testimonial-1.jpg" alt="">
-                        <img class="img-fluid wow fadeIn" data-wow-delay="0.3s" src="img/testimonial-2.jpg" alt="">
-                        <img class="img-fluid wow fadeIn" data-wow-delay="0.5s" src="img/testimonial-3.jpg" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- Testimonial End -->
-
-
     <!-- Contact Start -->
     <div class="container-xxl pb-5" id="contact">
         <div class="container py-5">
@@ -645,15 +477,9 @@
                 <div class="col-lg-6">
                     <h1 class="display-5 mb-0">Trabajemos juntos</h1>
                 </div>
-                <!-- <div class="col-lg-6 text-lg-end">
-                    <a class="btn btn-primary-portfolio py-3 px-5" href="">Say Hello</a>
-                </div> -->
             </div>
             <div class="row g-5">
                 <div class="col-lg-5 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <!-- <p class="mb-2">My office:</p>
-                    <h3 class="fw-bold">123 Street, New York, USA</h3>
-                    <hr class="w-100"> -->
                     <p class="mb-2">Teléfono:</p>
                     <h3 class="fw-bold">605993035</h3>
                     <hr class="w-100">
@@ -670,22 +496,11 @@
                                 class="fab fa-linkedin-in"></i></a>
                         <a class="hvr-grow" href="https://api.whatsapp.com/send?phone=34605993035" target="_blank"><i
                                 class="btn btn-primary-portfolio bi bi-whatsapp"></i></a>
-                        <!-- <a class="btn btn-square btn-primary-portfolio me-2" href=""><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-square btn-primary-portfolio me-2" href=""><i
-                                class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-square btn-primary-portfolio me-2" href=""><i class="bi bi-envelope"></i></a>
-                        <a class="btn btn-square btn-primary-portfolio me-2" href=""><i
-                                class="fab fa-linkedin-in"></i></a> -->
                     </div>
                 </div>
-                <div class="col-lg-7 col-md-6 wow fadeInUp contact" data-wow-delay="0.5s">
-                    <!-- <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form
-                        with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're
-                        done. <a href="https://htmlcodex.com/contact-form">Download Now</a>.</p> -->
-
+                <div class="col-lg-7 col-md-6 wow fadeInUp contact" data-wow-delay="0.5s">                   
                     <div class="confirm-contact alert alert-success" role="alert">
                         <span class="message-contact"></span>
-                        <!-- <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button> -->
                         <button type="button" class="btn-close"></button>
                     </div>
                     <form method="POST" id="form_contact" action="contact.php">
@@ -728,40 +543,29 @@
     <!-- Contact End -->
 
 
-    <!-- Map Start -->
-    <!-- <div class="container-xxl pt-5 px-0 wow fadeInUp" data-wow-delay="0.1s">
-        <div class="container-xxl pt-5 px-0">
-            <div class="bg-dark">
-                <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3001156.4288297426!2d-78.01371936852176!3d42.72876761954724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sbd!4v1603794290143!5m2!1sen!2sbd"
-                    frameborder="0" style="width: 100%; height: 450px; border:0;" allowfullscreen="" aria-hidden="false"
-                    tabindex="0"></iframe>
-            </div>
-        </div>
-    </div> -->
-    <!-- Map End -->
-
-
     <!-- Copyright Start -->
     <div class="container-fluid bg-dark text-white py-4">    
         <div class="row">
             <footer>
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0 div-footer">
-                    <h5>Sobre mi</h5>
+                    <h5>Sobre mí</h5>
                     <p>Experiencia profesional de 1 año desarrollando apps web, desde la fase de diseño, pasando por la BBDD y la parte FrontEnd y BackEnd</p>
                     <p>Actualmente estoy centrado en la arquitectura de Microservicios y en los frameworks Spring y Angular</p>
-                    <p>En el futuro me gustaría seguir especializandome en el desarrollo BackEnd con Java, FrontEnd con Angular y apps movil Android</p>
+                    <p>En el futuro me gustaría seguir especializándome en el desarrollo BackEnd con Java, FrontEnd con Angular y apps movil Android</p>
                 </div>
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0 div-footer">
                     <h5 class="border-end pe-3 me-3">Polivalente</h5>
                     <h2 class="text-primary fw-bold" data-toggle="counter-up">100</h2>
                     <p class="mb-4">He trabajado con distintos lenguajes de programación como HTML, CSS, PHP, JavaScript, Kotlin,
                         Java, distintas BBDD como MySQL, SqLite, Oracle, H2 e Hibernate</p>
-                    <p class="mb-4">Además también utilizo distintos frameworks como Angular, Spring, JavaFX, jQuery,
+                    <p class="mb-4">Además utilizo distintos frameworks como Angular, Spring, JavaFX, jQuery,
                         Ajax, Bootstrap, CodeIgniter, PWA, arquitectura de microservicios y control de versiones
                         Git</p>
                 </div>
             </footer>
+            <div class="col-md-12">
+                    <p class="text-center codigo-pagina">Puede ver el código de la página en el siguiente <a href="https://github.com/jitos-dev/mi-portfolio" target="__blank"> enlace</a></p>
+            </div>
         </div>     
     </div>
     <!-- Copyright End -->
