@@ -115,7 +115,6 @@
                     </div>
                     <div class="email">
                         <h5 class="mr-3">jitos@jitos.dev</h5>
-
                     </div>
                 </div>
                 <div class="col-lg-6">
