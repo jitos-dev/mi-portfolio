@@ -99,8 +99,9 @@
                         <a href="https://api.whatsapp.com/send?phone=34605993035" target="_blank"
                             class="btn btn-primary-portfolio me-4 hvr-grow"><i class="bi bi-whatsapp whatsap"></i></a>
                         <a download
-                            href="https://github.com/jitos-dev/jitos-dev/raw/fd37651f85f8f7da85e499c34c4b5355f706a0ac/JuanJoseGarcia.pdf"
+                            href="actions.php?download_cv"
                             target="_blank" class="btn btn-primary-portfolio download-cv hvr-grow">CV</a>
+                            
                     </div>
                     <div class="email">
                         <h5 class="mr-3">jitos@jitos.dev</h5>
@@ -113,7 +114,6 @@
         </div>
     </div>
     <!-- Header End -->
-
 
     <!-- About Start -->
     <div class="container-xxl py-6" id="about">
