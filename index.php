@@ -108,7 +108,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <img class="img-fluid" src="img/mia-header.png" alt="" class="mia-header">
+                    <img class="img-fluid" src="img/mia-header.png" alt="Imagen mia de portada" class="mia-header">
                 </div>
             </div>
         </div>
@@ -153,7 +153,7 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="row g-3 mb-4">
                         <div class="col-sm-12">
-                            <img class="img-fluid rounded" src="img/foto-calle.jpg" alt="">
+                            <img class="img-fluid rounded" src="img/foto-calle.jpg" alt="Foto andando por la calle paseando entre la gente">
                         </div>
                     </div>
                     <div class="d-flex align-items-center mb-3">
@@ -180,22 +180,22 @@
                     <h1 class="display-5 mb-5 mx-3">Skills</h1>
                     <div class="row align-items-center img-skills">
                         <div class="col-md-12">
-                            <img src="img/logos-skills/Java.png" alt="">
-                            <img src="img/logos-skills/spring.png" alt="">
-                            <img src="img/logos-skills/angular-icon.png" alt="">
-                            <img src="img/logos-skills/JavaScript.png" alt="">
-                            <img src="img/logos-skills/html.png" alt="">
-                            <img src="img/logos-skills/CSS.png" alt="">
-                            <img src="img/logos-skills/kotlin.png" alt="">
-                            <img src="img/logos-skills/bootstrap.png" alt="">
-                            <img src="img/logos-skills/php.png" alt="">
-                            <img src="img/logos-skills/codeigniter.png" alt="">
-                            <img src="img/logos-skills/jquery.png" alt="">
-                            <img src="img/logos-skills/hibernate.png" alt="">
-                            <img src="img/logos-skills/mysql.png" alt="">
-                            <img src="img/logos-skills/oracle-logo.png" alt="">
-                            <img src="img/logos-skills/sqlite.png" alt="">
-                            <img src="img/logos-skills/git-icon.png" alt="">
+                            <img src="img/logos-skills/Java.png" alt="Logo de Java">
+                            <img src="img/logos-skills/spring.png" alt="Logo de Spring">
+                            <img src="img/logos-skills/angular-icon.png" alt="Logo de Angular">
+                            <img src="img/logos-skills/JavaScript.png" alt="Logo de JavaScript">
+                            <img src="img/logos-skills/html.png" alt="Logo de Html">
+                            <img src="img/logos-skills/CSS.png" alt="Logo de css">
+                            <img src="img/logos-skills/kotlin.png" alt="Logo de Kotlin">
+                            <img src="img/logos-skills/bootstrap.png" alt="Logo de Bootstrap">
+                            <img src="img/logos-skills/php.png" alt="Logo de Php">
+                            <img src="img/logos-skills/codeigniter.png" alt="Logo de Codeigniter">
+                            <img src="img/logos-skills/jquery.png" alt="Logo de jQuery">
+                            <img src="img/logos-skills/hibernate.png" alt="Logo de Hibernate">
+                            <img src="img/logos-skills/mysql.png" alt="Logo de MySQL">
+                            <img src="img/logos-skills/oracle-logo.png" alt="Logo de Oracle">
+                            <img src="img/logos-skills/sqlite.png" alt="Logo de Sqlite">
+                            <img src="img/logos-skills/git-icon.png" alt="Logo de Git">
                         </div>
                     </div>
                 </div>
@@ -305,13 +305,13 @@
                             <span>Diseño y programación completa de páginas web desde el FrontEnd, BackEnd, gestión de la BBDD hasta
                                 el despliegue en el servidor</span>
                             <div class="servicios-iconos">
-                                <img src="img/logos-skills/html.png" alt="">
-                                <img src="img/logos-skills/JavaScript.png" alt="">
-                                <img src="img/logos-skills/CSS.png" alt="">
-                                <img src="img/logos-skills/bootstrap.png" alt="">
-                                <img src="img/logos-skills/php.png" alt="">
-                                <img src="img/logos-skills/mysql.png" alt="">
-                                <img src="img/logos-skills/hibernate.png" alt="">
+                                <img src="img/logos-skills/html.png" alt="Logo de Html">
+                                <img src="img/logos-skills/JavaScript.png" alt="Logo de JavaScript">
+                                <img src="img/logos-skills/CSS.png" alt="Logo de css">
+                                <img src="img/logos-skills/bootstrap.png" alt="Logo de Bootstrap">
+                                <img src="img/logos-skills/php.png" alt="Logo de Php">
+                                <img src="img/logos-skills/mysql.png" alt="Logo de MySQL">
+                                <img src="img/logos-skills/hibernate.png" alt="Logo de Hibernate">
                             </div>
                         </div>
                     </div>
@@ -323,12 +323,12 @@
                             <span>Apps de escritorio responsive para cualquier tipo de negocio con el mejor diseño
                                 realizadas en JavaFX</span>
                             <div class="servicios-iconos">
-                                <img src="img/logos-skills/Java.png" alt="">
-                                <img src="img/logos-skills/CSS.png" alt="">
-                                <img src="img/logos-skills/mysql.png" alt="">
-                                <img src="img/logos-skills/sqlite.png" alt="">
-                                <img src="img/logos-skills/hibernate.png" alt="">
-                                <img src="img/logos-skills/bootstrap.png" alt="">
+                                <img src="img/logos-skills/Java.png" alt="Logo de Java">
+                                <img src="img/logos-skills/CSS.png" alt="Logo de css">
+                                <img src="img/logos-skills/mysql.png" alt="Logo de MySQL">
+                                <img src="img/logos-skills/sqlite.png" alt="Logo de Sqlite">
+                                <img src="img/logos-skills/hibernate.png" alt="Logo de Hibernate">
+                                <img src="img/logos-skills/bootstrap.png" alt="Logo de Bootstrap">
                             </div>
                         </div>
                     </div>
@@ -341,10 +341,10 @@
                                 SpringSecurity,
                                 SpringClud, Gateway, Eureka, Load balancer...</span>
                             <div class="servicios-iconos">
-                                <img src="img/logos-skills/Java.png" alt="">
-                                <img src="img/logos-skills/spring.png" alt="">
-                                <img src="img/logos-skills/mysql.png" alt="">
-                                <img src="img/logos-skills/hibernate.png" alt="">
+                                <img src="img/logos-skills/Java.png" alt="Logo de Java">
+                                <img src="img/logos-skills/spring.png" alt="Logo de Spring">
+                                <img src="img/logos-skills/mysql.png" alt="Logo de MySQL">
+                                <img src="img/logos-skills/hibernate.png" alt="Logo de Hibernate">
                             </div>
                         </div>
                     </div>
@@ -356,11 +356,11 @@
                             <span>Aplicaciones web completas realizando la parte FrontEnd con Angular y la parte
                                 BackEnd con Spring y comunicación API Rest hasta su despliegue en el servidor</span>
                             <div class="servicios-iconos">
-                                <img src="img/logos-skills/Java.png" alt="">
-                                <img src="img/logos-skills/spring.png" alt="">
-                                <img src="img/logos-skills/angular-icon.png" alt="">
-                                <img src="img/logos-skills/mysql.png" alt="">
-                                <img src="img/logos-skills/hibernate.png" alt="">
+                                <img src="img/logos-skills/Java.png" alt="Logo de Java">
+                                <img src="img/logos-skills/spring.png" alt="Logo de Spring">
+                                <img src="img/logos-skills/angular-icon.png" alt="Logo de Angular">
+                                <img src="img/logos-skills/mysql.png" alt="Logo de MySQL">
+                                <img src="img/logos-skills/hibernate.png" alt="Logo de Hibernate">
                             </div>
                         </div>
                     </div>
@@ -372,11 +372,11 @@
                             <span>Desarrollo de aplicaciones móviles para cualquier sector utilizando las mejores
                                 tecnologías y con el mejor diseño</span>
                             <div class="servicios-iconos">
-                                <img src="img/logos-skills/android-logomark.png" alt="">
-                                <img src="img/logos-skills/kotlin.png" alt="">
-                                <img src="img/logos-skills/material-ui.png" alt="">
-                                <img src="img/logos-skills/sqlite.png" alt="">
-                                <img src="img/logos-skills/hibernate.png" alt="">
+                                <img src="img/logos-skills/android-logomark.png" alt="Logo de Android">
+                                <img src="img/logos-skills/kotlin.png" alt="Logo de Kotlin">
+                                <img src="img/logos-skills/material-ui.png" alt="Logo de Material-ui">
+                                <img src="img/logos-skills/sqlite.png" alt="Logo de Sqlite">
+                                <img src="img/logos-skills/hibernate.png" alt="Logo de Hibernate">
                             </div>
                         </div>
                     </div>
@@ -388,10 +388,10 @@
                             <span>Gestión completa de sus bases de datos en distintos gestores como MySQL, Oracle, H2,
                                 sQlite...</span>
                             <div class="servicios-iconos">
-                                <img src="img/logos-skills/mysql.png" alt="">
-                                <img src="img/logos-skills/oracle-logo.png" alt="">
-                                <img src="img/logos-skills/sqlite.png" alt="">
-                                <img src="img/logos-skills/hibernate.png" alt="">
+                                <img src="img/logos-skills/mysql.png" alt="Logo de MySQL">
+                                <img src="img/logos-skills/oracle-logo.png" alt="Logo de Oracle">
+                                <img src="img/logos-skills/sqlite.png" alt="Logo de Sqlite">
+                                <img src="img/logos-skills/hibernate.png" alt="Logo de Hibernate">
                             </div>
                         </div>
                     </div>
@@ -417,13 +417,13 @@
                 <!--Los proyectos se pueden clasificar poniendo la clase first o second-->
                 <div class="col-lg-4 col-md-6 portfolio-item first">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/logo-calculator-pan.png" alt="">
+                        <img class="img-fluid" src="img/logo-calculator-pan.png" alt="Logo de la aplicación Calculator Pan">
                         <div class="portfolio-btn">
                             <h5>App para el cálculo de las recetas de panadería realizada con</h5>
                             <div class="skills">
-                                <img src="img/logos-skills/Java.png" alt="">
-                                <img src="img/logos-skills/CSS.png" alt="">
-                                <img src="img/logos-skills/sqlite.png" alt="">
+                                <img src="img/logos-skills/Java.png" alt="Logo de Java">
+                                <img src="img/logos-skills/CSS.png" alt="Logo de css">
+                                <img src="img/logos-skills/sqlite.png" alt="Logo de Sqlite">
                             </div>
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1"
                                 href="https://github.com/jitos-dev/Calculator-pan" target="_blank"><i
@@ -433,13 +433,13 @@
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item second">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/twitor.jpg" alt="">
+                        <img class="img-fluid" src="img/twitor.jpg" alt="Logo de la aplicación Twitor">
                         <div class="portfolio-btn">
                             <h5>App para probar el funcionamiento de un service worker realizada con</h5>
                             <div class="skills">
-                                <img src="img/logos-skills/html.png" alt="">
-                                <img src="img/logos-skills/CSS.png" alt="">
-                                <img src="img/logos-skills/JavaScript.png" alt="">
+                                <img src="img/logos-skills/html.png" alt="Logo de Html">
+                                <img src="img/logos-skills/CSS.png" alt="Logo de css">
+                                <img src="img/logos-skills/JavaScript.png" alt="Logo de JavaScript">
                             </div>
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1"
                                 href="https://jitos-dev.github.io/twittor/" target="_blank"><i
@@ -451,13 +451,13 @@
                 </div>
                 <div class="col-lg-4 col-md-6 portfolio-item first">
                     <div class="portfolio-img rounded overflow-hidden">
-                        <img class="img-fluid" src="img/spotify.jpg" alt="">
+                        <img class="img-fluid" src="img/spotify.jpg" alt="Logo de la aplicación de Spotify">
                         <div class="portfolio-btn">
                             <h5>Clone de la app de spotify realizada con</h5>
                             <div class="skills">
-                                <img src="img/logos-skills/angular-icon.png" alt="">
-                                <img src="img/logos-skills/html.png" alt="">
-                                <img src="img/logos-skills/CSS.png" alt="">
+                                <img src="img/logos-skills/angular-icon.png" alt="Logo de Angular">
+                                <img src="img/logos-skills/html.png" alt="Logo de Html">
+                                <img src="img/logos-skills/CSS.png" alt="Logo de css">
                             </div>
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" target="_blank"
                                 href="https://github.com/jitos-dev/ConexionUniversalBD"><i class="fa fa-link"></i></a>
@@ -564,7 +564,7 @@
                 </div>
             </footer>
             <div class="col-md-12">
-                    <p class="text-center codigo-pagina">Puede ver el código de la página en el siguiente <a href="https://github.com/jitos-dev/mi-portfolio" target="__blank"> enlace</a></p>
+                    <p class="text-center codigo-pagina">Puede ver el código fuente de la página en el siguiente <a href="https://github.com/jitos-dev/mi-portfolio" target="__blank"> enlace</a></p>
             </div>
         </div>     
     </div>
