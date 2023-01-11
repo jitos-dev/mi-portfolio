@@ -134,6 +134,8 @@
             url: $(this).attr('action'),
             success: function (data) {
                 showConfirmContact(data);
+                //Para resetear los valores del formulario una vez que el envio sea correcto
+                $('form').trigger("reset");
             },
             error: function (data) {
                 showConfirmContact(data);
