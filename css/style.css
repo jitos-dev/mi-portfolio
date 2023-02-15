@@ -463,7 +463,7 @@ i.whatsap {
     left: 5rem;
 }
 
-.portfolio-item:hover .portfolio-btn {
+.portfolio-items:hover .portfolio-btn {
     opacity: 1;
     padding-bottom: 30px !important;
 }
