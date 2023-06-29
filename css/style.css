@@ -572,3 +572,9 @@ p.codigo-pagina {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
 }
+
+div.notas {
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
